@@ -1,0 +1,8 @@
+.list-product-format-main{
+    display: grid;
+    width: 100%;
+    place-items: center;
+    grid-template-columns: 1fr 3fr 1fr 1fr 1fr 1fr;
+    gap: 0.5rem;
+    padding: 1rem 0;
+}
