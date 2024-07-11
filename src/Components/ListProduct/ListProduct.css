@@ -6,3 +6,16 @@
     gap: 0.5rem;
     padding: 1rem 0;
 }
+
+.pagination button {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 0 0.5rem;
+    padding: 2px 5px;  
+}
+  
+.pagination button:hover {
+    background-color: #ddd;
+}
+  
